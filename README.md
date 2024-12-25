@@ -1,6 +1,6 @@
 # Book Data Extractor AWS EC2
 
-**Este projeto extrai informações de livros da API Google Books e armazena esses dados em uma tabela MySQL. Utilizando requests para fazer requisições à API, pandas para manipulação dos dados e mysql-connector para interagir com o banco de dados, o sistema permite que você facilmente obtenha dados sobre livros e os armazene em seu banco de dados MySQL.
+Este projeto extrai informações de livros da API Google Books e armazena esses dados em uma tabela MySQL. Utilizando requests para fazer requisições à API, pandas para manipulação dos dados e mysql-connector para interagir com o banco de dados, o sistema permite que você facilmente obtenha dados sobre livros e os armazene em seu banco de dados MySQL.
 
 **Além disso, este projeto foi implantado em uma instância AWS EC2, marcando o meu primeiro projeto na nuvem.
 ---
